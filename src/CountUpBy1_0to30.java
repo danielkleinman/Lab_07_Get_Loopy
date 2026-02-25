@@ -1,5 +1,5 @@
-public class CountUpTo30 {
-    static void main(String[] args) {
+public class CountUpBy1_0to30 {
+    public static void main(String[] args) {
         for(int i = 0; i <= 30; i++) // Loop from 0 to 30
         {
             String end = "";
